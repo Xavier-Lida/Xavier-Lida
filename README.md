@@ -1,6 +1,6 @@
 # Hello World
 
 - 👋 Hi, I’m Xavier Lida
-- 👀 I’m interested in Software Engineering
+- 👀 Studying Software Engineering
 - 🌱 I’m currently learning Python
 - 🎓 Laval University
