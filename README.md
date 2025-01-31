@@ -2,5 +2,6 @@
 
 - 👋 Hi, I’m Xavier Lida
 - 👀 Studying Software Engineering
-- 🌱 I’m currently learning Python
+- 🐍 Python
+- 🌱 I’m currently learning c++
 - 🎓 Laval University
