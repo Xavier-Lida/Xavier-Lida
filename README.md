@@ -3,5 +3,6 @@
 - 👋 Hi, I’m Xavier Lida
 - 👀 Studying Software Engineering
 - 🐍 Python
-- 🌱 I’m currently learning c++
+- 🌱 C++ basics
+- 🌐 I’m currently learning React and Next.js
 - 🎓 Laval University
