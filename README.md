@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Xavier Lida
 - 👀 Studying Software Engineering
-- 🐍 Python
-- 🌱 C++ basics
-- 🌐 I’m currently learning React and Next.js
+- ☕️ Java
+- 🍃 I’m currently building with Spring Boot
+- 🌐 Check out my portfoli @ https://xavier-lida.github.io/portfolio/
 - 🎓 Laval University
