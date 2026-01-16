@@ -4,5 +4,5 @@
 - 👀 Studying Software Engineering
 - ☕️ Java
 - 🍃 I’m currently building with Spring Boot
-- 🌐 Check out my portfoli @ https://xavier-lida.github.io/portfolio/
+- 🌐 Check out my portfolio @ https://xavier-lida.github.io/portfolio/
 - 🎓 Laval University
